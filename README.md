@@ -5,3 +5,4 @@
 ## Headlines are the headlines of every section in the website
 ## summaries are brief descriptions of sections
 ## Youtube links are videos explaining every section
+# Image scrapping jupyter file scraped image and downloaded it
